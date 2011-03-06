@@ -9,11 +9,11 @@ so ~/.pentadactyl/stylesheets/user.css
 
 " @section Options {{{
 " ******************************************************************************
-set guioptions=rbms
+set guioptions=rbsCn
 set visualbell
 set newtab=all
 set titlestring=Mozilla\ Firefox
-set defsearch=duck
+" set defsearch=duck
 set maxitems=12
 set cpt=l
 set nostrictfocus
