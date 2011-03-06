@@ -9,7 +9,7 @@ so ~/.pentadactyl/stylesheets/user.css
 
 " @section Options {{{
 " ******************************************************************************
-set guioptions=rbsCn
+set guioptions=rbsC
 set visualbell
 set newtab=all
 set titlestring=Mozilla\ Firefox
@@ -22,8 +22,6 @@ set mapleader=","
 set autocomplete=".*"
 set hintmatching=wordstartswith
 
-cd ~
-colorscheme feline
 " }}}
 
 " @section Passkeys {{{
