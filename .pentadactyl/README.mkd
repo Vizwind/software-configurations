@@ -1,0 +1,28 @@
+## Wait, what?
+
+<http://dactyl.sourceforge.net/pentadactyl/>
+
+## Usage
+
+    cd ~
+    git clone git://github.com/remiprev/pentadactyl-files.git .pentadactyl
+    touch .pentadactyl/.pentadactylrc-sensitive
+    ln -s .pentadactyl/.pentadactylrc .pentadactylrc
+
+That’s it!
+
+# Custom commands
+
+* `:delicious`
+* `:read`
+* `:valid`
+* `:ghfinder`
+* `:jstoggle`
+* `:firebug`
+
+# Custom styles
+
+* Facebook
+* Hacker News
+* Reddit
+* Twitter
