@@ -61,6 +61,9 @@ nmap <M-g> <Nop>
 nmap <M-l> <Nop>
 nmap <M-Q> <Nop>
 
+" disable the dangerous C-r, it will cause loss of your hard work input
+nmap <C-R> <Nop>
+
 " Add some of our own mappings
 nmap <Leader>d :tabclose<CR>
 nmap <C-g> :pa<CR>
