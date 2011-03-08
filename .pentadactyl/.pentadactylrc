@@ -66,6 +66,8 @@ nmap <C-R> <Nop>
 imap <C-R> <Nop>
 nmap <C-v> <C-R> <Nop>
 imap <C-v> <C-R> <Nop>
+nmap r <Nop>
+imap <Esc-r> <Nop>
 
 " Add some of our own mappings
 nmap <Leader>d :tabclose<CR>
