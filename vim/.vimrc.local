@@ -1,0 +1,4 @@
+colorscheme zellner
+
+noremap v <C-b>
+noremap <space> <C-f>
